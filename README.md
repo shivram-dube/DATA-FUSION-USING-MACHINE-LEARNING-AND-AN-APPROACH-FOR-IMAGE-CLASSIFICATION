@@ -1,5 +1,7 @@
 # DATA-FUSION-USING-MACHINE-LEARNING-AND-AN-APPROACH-FOR-IMAGE-CLASSIFICATION
 
+For more info and code related queries :- shivramdube329@gmail.com
+
 Aim and Objectives:-
 Based on the problem statement mentioned, the aim of proposed work is identified and formulated as follows.
 
