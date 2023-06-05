@@ -9,11 +9,18 @@ Main goal of this project is to create an innovative technique for classifying t
 
 
 Objectives:-
+
 •	To develop a simple data fusion mechanism by using Discrete Wavelet Transforms (DWT).
+
 •	To evaluate the DWT-based developed mechanism by using performance identified evaluation parameters.
+
 •	To develop a data fusion mechanism using machine learning by exploring linear regression.
+
 •	To evaluate the linear regression based developed model by using performance identified evaluation parameters.
+
 •	To develop fused image dataset by utilizing existing CT and MRI images of normal brain and brain tumor.
+
 •	To develop classification model for brain tumor presence using fused image dataset and deep learning.
+
 •	To evaluate the deep learning based developed classification model by using identified performance evaluation parameters.
 
