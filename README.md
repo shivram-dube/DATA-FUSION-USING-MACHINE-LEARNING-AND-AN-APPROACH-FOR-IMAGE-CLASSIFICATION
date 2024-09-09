@@ -1,9 +1,9 @@
 # DATA-FUSION-USING-MACHINE-LEARNING-AND-AN-APPROACH-FOR-IMAGE-CLASSIFICATION
 
-For more info and code related queries :- shivramdube329@gmail.com
+For more info and code-related queries :- shivramdube329@gmail.com
 
 Aim and Objectives:-
-Based on the problem statement mentioned, the aim of proposed work is identified and formulated as follows.
+Based on the problem statement mentioned, the aim of the proposed work is identified and formulated as follows.
 
 
 Aim:-
@@ -14,21 +14,21 @@ Objectives:-
 
 •	To develop a simple data fusion mechanism by using Discrete Wavelet Transforms (DWT).
 
-•	To evaluate the DWT-based developed mechanism by using performance identified evaluation parameters.
+•	To evaluate the DWT-based developed mechanism by using performance-identified evaluation parameters.
 
 •	To develop a data fusion mechanism using machine learning by exploring linear regression.
 
-•	To evaluate the linear regression based developed model by using performance identified evaluation parameters.
+•	To evaluate the linear regression-based developed model by using performance-identified evaluation parameters.
 
-•	To develop fused image dataset by utilizing existing CT and MRI images of normal brain and brain tumor.
+•	To develop a fused image dataset by utilizing existing CT and MRI images of normal brain and brain tumor.
 
-•	To develop classification model for brain tumor presence using fused image dataset and deep learning.
+•	To develop a classification model for brain tumor presence using fused image dataset and deep learning.
 
 •	To evaluate the deep learning based developed classification model by using identified performance evaluation parameters.
 
 
 
-Image Fusion Fundamentals :-
+Image Fusion Fundamentals:-
 Image fusion is the process of combining multiple images of the same scene or object to create a single composite image that contains more comprehensive and enhanced information. Generally, the features of both the input images are extracted and later, these features are merged to get the fused image. The general way to fuse two images is depicted in Figure 3.1.
 
 
